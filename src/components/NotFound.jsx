@@ -1,7 +1,5 @@
 import pikachu from "../resources/pikachu.webp";
 import styles from "../styles/NotFount.module.css";
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
 
 export default function NoFound() {
   return (
