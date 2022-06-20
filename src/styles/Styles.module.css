@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+.background {
+  background-image: linear-gradient(180deg, #000000c8 0%, #ff3c2e3a 100%),
+    url("../resources/bg.webp");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: bottom;
+}
+.nav {
+  background-color: #262626;
+}

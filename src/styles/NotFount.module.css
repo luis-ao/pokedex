@@ -1,0 +1,32 @@
+.nf {
+  padding-top: 10rem;
+  height: 100vh;
+  background-color: #000000b3;
+}
+
+.text p {
+  color: #ffcc00;
+  font-weight: 700;
+  letter-spacing: 1px;
+  font-size: 1.8rem;
+  padding-top: 1rem;
+}
+.img img {
+  width: 12%;
+}
+
+@media screen and (max-width: 1400px) {
+  .nf {
+    padding-top: 8rem;
+  }
+
+  .text p {
+    font-size: 1.2rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .img img {
+    width: 36%;
+  }
+}
